@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Website</title>
+
+    <style>
+        body {
+            background-image: url('background.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            height: 100vh;
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+
+</body>
+</html>   padding: 20px;
+    border-radius: 12px;
+}
+
+h1, h2 {
+    color: #5a3d2b;
+}
+
+p {
+    line-height: 1.8;
+}
